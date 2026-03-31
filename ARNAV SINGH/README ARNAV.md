@@ -422,4 +422,5 @@ This application takes basic but important security measures:
 Registration No: 24BAI10416
 B.Tech — Computer Science and Engineering
 VIT University
-Academic Year: 2024–2025
+Academic Year: 2026
+
